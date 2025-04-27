@@ -1,8 +1,6 @@
 # Baseband Board Configurer
 
-This is a Python GUI program that simulates the configuration of baseband boards for a wireless base station. It allows the user to define board capacities, assign costs, and find valid combinations of boards that meet given technology requirements.
-
-This project was created as a learning exercise to explore GUI development, data structures, and basic problem-solving logic in Python.
+The Baseband Board Configurer is a Python GUI program that simulates the configuration of baseband boards for a wireless base station. It allows the user to define board capacities, assign costs, and find valid combinations of boards that meet given technology requirements.
 
 ---
 
@@ -14,7 +12,7 @@ This project was created as a learning exercise to explore GUI development, data
 - Searches for all possible board combinations that meet the requirements
 - Displays up to 100 solutions, and highlights the 10 most cost-effective ones
 
-> Each board can support multiple modes (configurations), and each mode supports different quantities of technologies (L, N, G, U, D).
+Each board can support multiple modes (configurations), and each mode supports different quantities of technologies (L, N, G, U, D).
 
 ---
 
